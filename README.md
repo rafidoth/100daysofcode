@@ -20,3 +20,4 @@ Starting date: 12 July
 <h1><a href="https://github.com/rafidoth/100daysofcode/blob/main/heads_or_tails.py" rel="noopener noreferrer" target="_blank">8.Coin Toss : Heads or Tails</a></h1>
 <h1><a href="https://github.com/rafidoth/100daysofcode/blob/main/who_is_paying_today_bill_randomizer.py" rel="noopener noreferrer" target="_blank"><strong>9. Who&apos;s paying ? - Name Randomizer</strong></a></h1>
 <h1><a href="https://github.com/rafidoth/100daysofcode/blob/main/treasure_map_game.py" rel="noopener noreferrer" target="_blank">10. Treasure Map Game ( Matrix )</a></h1>
+<h1><a href="https://github.com/rafidoth/100daysofcode/blob/main/rock_peper_scissors.py" rel="noopener noreferrer" target="_blank">11. Rock Paper Scissors Game</a></h1>
