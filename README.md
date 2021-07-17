@@ -18,3 +18,4 @@ Starting date: 12 July
 <h1><a href="https://github.com/rafidoth/100daysofcode/blob/main/Pizza%20Order%20Bill%20System.py" rel="noopener noreferrer" target="_blank">6. Pizza Order Bill System</a></h1>
 <h1><a href="https://github.com/rafidoth/100daysofcode/blob/main/Treasure%20story%20game.py" rel="noopener noreferrer" target="_blank">7.Treasure Story Game</a></h1>
 <h1><a href="https://github.com/rafidoth/100daysofcode/blob/main/heads_or_tails.py" rel="noopener noreferrer" target="_blank">8.Coin Toss : Heads or Tails</a></h1>
+<h1><a href="https://github.com/rafidoth/100daysofcode/blob/main/who_is_paying_today_bill_randomizer.py" rel="noopener noreferrer" target="_blank"><strong>9. Who&apos;s paying ? - Name Randomizer</strong></a></h1>
